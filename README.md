@@ -15,7 +15,7 @@ Print: 1,2,3,4,8,12,16,15,14,13,9,5,6,7,11,10
 To avoid extra loops or using extra arrays, problem is tried to be solved with indexes.
 Only an extra dimentions array is used to calculate the turns during the iteration over the matrix
 
-###Improvements:
+### Improvements:
 
 - Input matrix can be read from a file 
 - Boundry cases could be covered like wrong matrix, incompatible indexes etc
